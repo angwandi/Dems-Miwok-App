@@ -153,7 +153,7 @@ CREATING A list of double words using the list_item and the Word class
         //USING WordAdapter
 
         WordAdapter Adapter =
-                new WordAdapter(this,words);
+                new WordAdapter(this,words,R.color.category_numbers);
         ListView listView = findViewById(R.id.list);
         listView.setAdapter(Adapter);
 

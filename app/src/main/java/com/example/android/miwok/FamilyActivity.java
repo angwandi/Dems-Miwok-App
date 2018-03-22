@@ -32,7 +32,7 @@ public class FamilyActivity extends AppCompatActivity {
         //USING WordAdapter
 
         WordAdapter Adapter =
-                new WordAdapter(this, words);
+                new WordAdapter(this, words,R.color.category_family);
         ListView listView = findViewById(R.id.list);
         listView.setAdapter(Adapter);
 
