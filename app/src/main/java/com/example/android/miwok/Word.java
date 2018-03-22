@@ -28,9 +28,7 @@ public class Word {
     public Word(String defaultTranslation, String miwokTranslation) {
 
         mDefaultTranslation = defaultTranslation;
-
         mMiwokTranslation = miwokTranslation;
-
     }
 
     /**
