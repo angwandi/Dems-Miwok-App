@@ -6,7 +6,6 @@
     android:background="@color/tan_background"
     android:orientation="vertical"
     tools:context="com.example.android.miwok.MainActivity">
-
     <!-- Numbers category -->
     <FrameLayout
         android:layout_width="match_parent"
@@ -19,7 +18,6 @@
             android:background="?android:attr/selectableItemBackground"
             android:text="@string/category_numbers" />
     </FrameLayout>
-
     <!-- Family category -->
     <FrameLayout
         android:layout_width="match_parent"
@@ -32,7 +30,6 @@
             android:background="?android:attr/selectableItemBackground"
             android:text="@string/category_family" />
     </FrameLayout>
-
     <!-- Colors category -->
     <FrameLayout
         android:layout_width="match_parent"
@@ -45,7 +42,6 @@
             android:background="?android:attr/selectableItemBackground"
             android:text="@string/category_colors" />
     </FrameLayout>
-
     <!-- Phrases category -->
     <FrameLayout
         android:layout_width="match_parent"
