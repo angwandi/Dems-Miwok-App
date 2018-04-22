@@ -1,3 +1,5 @@
+Step by step guide to build this App which is part of my Udacity course: Multi-Screen Apps
+
 Miwok App
 ===================================
 
@@ -44,4 +46,17 @@ Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
-the License.
+the License
+
+## ScreenShots of completed projects
+
+![screenshot_1523193852](https://user-images.githubusercontent.com/31923567/38468041-b7894df0-3b38-11e8-9dd7-6f8903c4196a.png)
+
+![screenshot_1523193856](https://user-images.githubusercontent.com/31923567/38468044-bcc906a2-3b38-11e8-9bcd-3187de62e5e2.png)
+
+![screenshot_1523193860](https://user-images.githubusercontent.com/31923567/38468045-beb234ac-3b38-11e8-8ac1-262631333944.png)
+
+![screenshot_1523193863](https://user-images.githubusercontent.com/31923567/38468048-c0bd83b4-3b38-11e8-9d6f-ea3ce8ccc91d.png)
+
+> Made by 2ms
+
